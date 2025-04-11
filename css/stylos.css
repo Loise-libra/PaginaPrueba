@@ -28,3 +28,19 @@ h2:hover{
     color: blue;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+.parrafo{
+    margin-top: 2px;
+    margin-bottom: 10px;
+    background-color: rgba(0, 0, 255, 0.253);
+    padding: 10px;
+    border-radius: 15px;
+    box-shadow: 2px 4px 0 color(srgb rgb(0, 38, 255) green blue);
+
+}
+
+.parrafo:hover{
+    cursor: pointer;
+    background-color: rgba(123, 104, 228, 0.74);
+
+
+}
